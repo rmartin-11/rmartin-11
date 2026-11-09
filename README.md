@@ -17,6 +17,20 @@ Este perfil es mi punto de encuentro entre el aprendizaje y la práctica: un esp
 
 <br />
 
+## Proyectos
+
+### PitLog · Garaje digital para Android
+
+Aplicación para llevar el mantenimiento de coches y motos. Permite registrar revisiones con fecha, kilometraje y coste, consultar avisos y guardar una foto principal y una galería por vehículo.
+
+Funciona sin conexión. Los datos se guardan en el móvil y se pueden exportar y restaurar mediante una copia de seguridad.
+
+**Tecnologías** · Java, Android WebView, HTML, CSS, JavaScript e IndexedDB.
+
+[Descargar PitLog 1.1 para Android](./assets/PitLog-1.1.apk) · Requiere Android 8.0 o posterior.
+
+<br />
+
 ## Tecnologías
 
 ### Lenguajes y tecnologías web

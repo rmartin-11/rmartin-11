@@ -20,16 +20,22 @@ Este perfil es mi punto de encuentro entre el aprendizaje y la práctica: un esp
 ## Tecnologías
 
 <p>
-  <img src="./assets/technologies.svg" width="600" alt="Java · HTML · CSS · Git · GitHub" />
+  <img src="./assets/java.svg" width="110" height="44" alt="Java" />
+  <img src="./assets/html.svg" width="110" height="44" alt="HTML" />
+  <img src="./assets/css.svg" width="110" height="44" alt="CSS" />
+  <img src="./assets/git.svg" width="110" height="44" alt="Git" />
+  <img src="./assets/github.svg" width="110" height="44" alt="GitHub" />
 </p>
 
 <br />
 
 ## En qué me centro
 
-| Java | Desarrollo web | Forma de trabajar |
-| :--- | :--- | :--- |
-| Lógica, estructura y resolución de problemas. | Interfaces con HTML y CSS, con atención al detalle visual. | Practicar, revisar y mejorar paso a paso. |
+**Java** · Lógica, estructura y resolución de problemas.
+
+**Desarrollo web** · Interfaces con HTML y CSS, con atención al detalle visual.
+
+**Forma de trabajar** · Practicar, revisar y mejorar paso a paso.
 
 <br />
 

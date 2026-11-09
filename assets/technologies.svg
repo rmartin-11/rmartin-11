@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="62" viewBox="0 0 600 62" role="img" aria-labelledby="title">
+  <title id="title">Java, HTML, CSS, Git y GitHub</title>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <rect x="0" y="1" width="110" height="54" rx="10" fill="#101c2b" stroke="#2e4359"/><rect x="120" y="1" width="110" height="54" rx="10" fill="#101c2b" stroke="#2e4359"/><rect x="240" y="1" width="110" height="54" rx="10" fill="#101c2b" stroke="#2e4359"/><rect x="360" y="1" width="110" height="54" rx="10" fill="#101c2b" stroke="#2e4359"/><rect x="480" y="1" width="119" height="54" rx="10" fill="#101c2b" stroke="#2e4359"/>
+    <text x="55" y="34" fill="#fbbf80">Java</text><text x="175" y="34" fill="#fca58d">HTML</text><text x="295" y="34" fill="#93c5fd">CSS</text><text x="415" y="34" fill="#5eead4">Git</text><text x="540" y="34" fill="#e2e8f0">GitHub</text>
+  </g>
+</svg>

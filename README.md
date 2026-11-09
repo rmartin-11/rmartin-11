@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Rubén Martín — Java y desarrollo web" />
+</p>
 
-<!--
-**rmartin-11/rmartin-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Ideas claras. Código con intención.</strong><br />
+  <sub>Aprender, construir y mejorar en cada proyecto.</sub>
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hola, soy Rubén
+
+Trabajo en proyectos con **Java, HTML y CSS**, combinando lógica de programación y diseño de interfaces. Me interesa transformar ideas en aplicaciones claras, útiles y fáciles de utilizar.
+
+Este perfil es mi punto de encuentro entre el aprendizaje y la práctica: un espacio para construir, experimentar y seguir mejorando.
+
+<br />
+
+## Tecnologías
+
+<p>
+  <img src="./assets/technologies.svg" width="600" alt="Java · HTML · CSS · Git · GitHub" />
+</p>
+
+<br />
+
+## En qué me centro
+
+| Java | Desarrollo web | Forma de trabajar |
+| :--- | :--- | :--- |
+| Lógica, estructura y resolución de problemas. | Interfaces con HTML y CSS, con atención al detalle visual. | Practicar, revisar y mejorar paso a paso. |
+
+<br />
+
+<details>
+  <summary><strong>Un poco más sobre mi trabajo</strong></summary>
+
+  <br />
+
+  Mis proyectos combinan ejercicios de programación y aplicaciones prácticas. Mantengo mis repositorios personales en privado; aquí comparto una presentación de las tecnologías y áreas con las que trabajo.
+
+</details>
+
+<br />
+
+---
+
+<p align="center">
+  <sub><strong>Rubén Martín</strong> · <a href="https://github.com/rmartin-11">@rmartin-11</a></sub><br />
+  <sub>Una idea. Un commit. Un paso más.</sub>
+</p>

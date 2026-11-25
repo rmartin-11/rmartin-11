@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
   <title id="title">Rubén Martín — Desarrollo web, móvil y bases de datos</title>
-  <desc id="desc">Cabecera azul noche con acentos turquesa, una ventana de código y una luz de actividad animada.</desc>
+  <desc id="desc">Cabecera ciruela oscuro con acentos coral y dorado, una ventana de código y una luz de actividad animada.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#14273b"/></linearGradient>
-    <linearGradient id="edge"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#2dd4bf" stop-opacity=".14"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b9d4e9" stroke-opacity=".035"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1b1024"/><stop offset="1" stop-color="#39203a"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#fb8c78"/><stop offset="1" stop-color="#f6c56f"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fb8c78" stop-opacity=".14"/><stop offset="1" stop-color="#fb8c78" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#f2d0d7" stroke-opacity=".035"/></pattern>
   </defs>
   <style>@media (prefers-reduced-motion: reduce){.pulse{display:none}}</style>
   <rect width="1200" height="370" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="370" rx="20" fill="url(#grid)"/>
   <ellipse cx="1000" cy="80" rx="400" ry="290" fill="url(#glow)"/>
-  <rect x="50" y="54" width="36" height="3" rx="1.5" fill="#2dd4bf"/>
-  <text x="100" y="60" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#98b0c8">RMARTIN-11 / GITHUB</text>
-  <text x="50" y="159" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Rubén Martín</text>
-  <text x="53" y="204" font-family="Arial, sans-serif" font-size="23" fill="#b2c4d8">Desarrollo web, móvil y bases de datos</text>
-  <rect x="53" y="239" width="43" height="2" fill="#2dd4bf"/>
-  <text x="53" y="282" font-family="Arial, sans-serif" font-size="15" fill="#8da5bd">Lógica, diseño y atención al detalle.</text>
+  <rect x="50" y="54" width="36" height="3" rx="1.5" fill="#fb8c78"/>
+  <text x="100" y="60" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#d2aebc">RMARTIN-11 / GITHUB</text>
+  <text x="50" y="159" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#fff4f0">Rubén Martín</text>
+  <text x="53" y="204" font-family="Arial, sans-serif" font-size="23" fill="#e8cbd1">Desarrollo web, móvil y bases de datos</text>
+  <rect x="53" y="239" width="43" height="2" fill="#fb8c78"/>
+  <text x="53" y="282" font-family="Arial, sans-serif" font-size="15" fill="#c9a9b8">Lógica, diseño y atención al detalle.</text>
   <g transform="translate(756 86)">
-    <rect width="390" height="204" rx="12" fill="#0b1422" stroke="#2b4259"/>
-    <path d="M0 40H390" stroke="#23384d"/>
-    <circle cx="22" cy="20" r="4" fill="#50708b"/><circle cx="37" cy="20" r="4" fill="#50708b"/><circle cx="52" cy="20" r="4" fill="#2dd4bf"/>
-    <text x="73" y="24" font-family="monospace" font-size="11" fill="#8da5bd">about-ruben</text>
+    <rect width="390" height="204" rx="12" fill="#211321" stroke="#694252"/>
+    <path d="M0 40H390" stroke="#573544"/>
+    <circle cx="22" cy="20" r="4" fill="#986c77"/><circle cx="37" cy="20" r="4" fill="#986c77"/><circle cx="52" cy="20" r="4" fill="#fb8c78"/>
+    <text x="73" y="24" font-family="monospace" font-size="11" fill="#c9a9b8">about-ruben</text>
     <g font-family="monospace" font-size="15">
-      <text x="24" y="77" fill="#7b93ac">01 <tspan fill="#93c5fd">const</tspan><tspan fill="#e2e8f0"> developer = {</tspan></text>
-      <text x="24" y="106" fill="#7b93ac">02 <tspan fill="#b5c8da">  name: </tspan><tspan fill="#5eead4">"Rubén"</tspan><tspan fill="#b5c8da">,</tspan></text>
-      <text x="24" y="135" fill="#7b93ac">03 <tspan fill="#b5c8da">  focus: </tspan><tspan fill="#5eead4">"web &amp; mobile"</tspan></text>
-      <text x="24" y="164" fill="#7b93ac">04 <tspan fill="#e2e8f0">};</tspan></text>
+      <text x="24" y="77" fill="#b38b9b">01 <tspan fill="#f6c56f">const</tspan><tspan fill="#fff0ed"> developer = {</tspan></text>
+      <text x="24" y="106" fill="#b38b9b">02 <tspan fill="#e1c2ca">  name: </tspan><tspan fill="#ffad94">"Rubén"</tspan><tspan fill="#e1c2ca">,</tspan></text>
+      <text x="24" y="135" fill="#b38b9b">03 <tspan fill="#e1c2ca">  focus: </tspan><tspan fill="#ffad94">"web &amp; mobile"</tspan></text>
+      <text x="24" y="164" fill="#b38b9b">04 <tspan fill="#fff0ed">};</tspan></text>
     </g>
-    <circle cx="365" cy="20" r="3" fill="#2dd4bf"/>
-    <circle class="pulse" cx="365" cy="20" r="5" fill="none" stroke="#2dd4bf"><animate attributeName="r" values="4;11" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="365" cy="20" r="3" fill="#fb8c78"/>
+    <circle class="pulse" cx="365" cy="20" r="5" fill="none" stroke="#fb8c78"><animate attributeName="r" values="4;11" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0" dur="3s" repeatCount="indefinite"/></circle>
   </g>
   <rect x="50" y="333" width="1100" height="2" rx="1" fill="url(#edge)" opacity=".7"/>
 </svg>

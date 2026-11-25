@@ -40,10 +40,10 @@ Funciona sin conexión. Los datos se guardan en el móvil y se pueden exportar y
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNSAyIDIgMy44IDIgNnYxMmMwIDIuMiA0LjUgNCAxMCA0czEwLTEuOCAxMC00VjZjMC0yLjItNC41LTQtMTAtNHptMCAyYzQuOSAwIDggMS40IDggMnMtMy4xIDItOCAyLTgtMS40LTgtMiAzLjEtMiA4LTJ6bTAgMTZjLTQuOSAwLTgtMS40LTgtMnYtMmMxLjggMS4zIDQuOSAyIDggMnM2LjItLjcgOC0ydjJjMCAuNi0zLjEgMi04IDJ6bTAtNGMtNC45IDAtOC0xLjQtOC0ydi0yYzEuOCAxLjMgNC45IDIgOCAyczYuMi0uNyA4LTJ2MmMwIC42LTMuMSAyLTggMnptMC00Yy00LjkgMC04LTEuNC04LTJWOGMxLjggMS4zIDQuOSAyIDggMnM2LjItLjcgOC0ydjJjMCAuNi0zLjEgMi04IDJ6Ii8%2BPC9zdmc%2B" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&amp;logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&amp;logo=xml&amp;logoColor=white" alt="XML" />
 </p>
 
 ### Web y backend
@@ -65,7 +65,7 @@ Aplicaciones Android con **Java, Kotlin y XML**.
 ### Bases de datos SQL y NoSQL
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSI2LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIxMSIgcng9IjUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8%2BPC9zdmc%2B" alt="Oracle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL Workbench" />
   <img src="https://img.shields.io/badge/Firebase%20RTDB-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase Realtime Database (RTDB)" />

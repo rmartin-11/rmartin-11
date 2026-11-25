@@ -49,9 +49,9 @@ Funciona sin conexión. Los datos se guardan en el móvil y se pueden exportar y
 ### Web y backend
 
 <p>
-  <img src="./assets/react.svg" width="110" height="44" alt="React" />
-  <img src="./assets/spring-boot.svg" width="118" height="44" alt="Spring Boot" />
-  <img src="./assets/nodejs.svg" width="110" height="44" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
 </p>
 
 ### Desarrollo móvil
@@ -59,29 +59,29 @@ Funciona sin conexión. Los datos se guardan en el móvil y se pueden exportar y
 Aplicaciones Android con **Java, Kotlin y XML**.
 
 <p>
-  <img src="./assets/android-studio.svg" width="142" height="44" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" />
 </p>
 
 ### Bases de datos SQL y NoSQL
 
 <p>
-  <img src="./assets/oracle.svg" width="110" height="44" alt="Oracle" />
-  <img src="./assets/mysql.svg" width="110" height="44" alt="MySQL" />
-  <img src="./assets/mysql-workbench.svg" width="150" height="44" alt="MySQL Workbench" />
-  <img src="./assets/firebase-rtdb.svg" width="134" height="44" alt="Firebase Realtime Database (RTDB)" />
-  <img src="./assets/firebase-firestore.svg" width="174" height="44" alt="Firebase Firestore" />
-  <img src="./assets/mongodb.svg" width="110" height="44" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Firebase%20RTDB-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase Realtime Database (RTDB)" />
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase Firestore" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
 </p>
 
 ### Herramientas y metodología
 
 <p>
-  <img src="./assets/git.svg" width="110" height="44" alt="Git" />
-  <img src="./assets/github.svg" width="110" height="44" alt="GitHub" />
-  <img src="./assets/scrum.svg" width="110" height="44" alt="Scrum" />
-  <img src="./assets/trello.svg" width="110" height="44" alt="Trello" />
-  <img src="./assets/jira.svg" width="110" height="44" alt="Jira" />
-  <img src="./assets/uml.svg" width="110" height="44" alt="UML" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Scrum-6F42C1?style=for-the-badge" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/UML-6F42C1?style=for-the-badge" alt="UML" />
 </p>
 
 <br />

@@ -81,7 +81,7 @@ Aplicaciones Android con **Java, Kotlin y XML**.
   <img src="https://img.shields.io/badge/Scrum-6F42C1?style=for-the-badge" alt="Scrum" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/UML-6F42C1?style=for-the-badge" alt="UML" />
+  <img src="https://img.shields.io/badge/UML-6F42C1?style=for-the-badge&amp;logo=uml&amp;logoColor=white" alt="UML" />
 </p>
 
 <br />

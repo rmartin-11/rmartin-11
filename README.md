@@ -36,14 +36,14 @@ Funciona sin conexión. Los datos se guardan en el móvil y se pueden exportar y
 ### Lenguajes y tecnologías web
 
 <p>
-  <img src="./assets/java.svg" width="110" height="44" alt="Java" />
-  <img src="./assets/python.svg" width="110" height="44" alt="Python" />
-  <img src="./assets/kotlin.svg" width="110" height="44" alt="Kotlin" />
-  <img src="./assets/javascript.svg" width="110" height="44" alt="JavaScript" />
-  <img src="./assets/sql.svg" width="110" height="44" alt="SQL" />
-  <img src="./assets/html.svg" width="110" height="44" alt="HTML" />
-  <img src="./assets/css.svg" width="110" height="44" alt="CSS" />
-  <img src="./assets/xml.svg" width="110" height="44" alt="XML" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&amp;logoColor=white" alt="XML" />
 </p>
 
 ### Web y backend
